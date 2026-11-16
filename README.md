@@ -62,7 +62,7 @@ javac -version
 Abrir una terminal y ejecutar el siguiente comando, sustituyendo la dirección por la URL de este repositorio:
 
 ```bash
-git clone https://github.com/USUARIO/REPOSITORIO.git
+git clone https://github.com/USUARIO/REPOSITORIO.git (https://github.com/camidelangel/Ordenamiento-por-Burbuja/tree/main)
 ```
 
 ### 2. Entrar a la carpeta del proyecto
